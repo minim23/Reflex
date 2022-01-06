@@ -1,0 +1,99 @@
+{
+	"pattrstorage" : 	{
+		"name" : "VSM.Sampler_Presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "OpenGlitch",
+				"data" : 				{
+					"Offset" : [ 1.0 ],
+					"Vol" : [ 0.0 ],
+					"live.numbox" : [ 0.188976377952756 ],
+					"live.numbox[1]" : [ 0.330708661417324 ],
+					"live.numbox[3]" : [ 42.519685039370195 ],
+					"textbutton[2]" : [ 1 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.259842519685039 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "StereoDoubling",
+				"data" : 				{
+					"Offset" : [ 0.18755037510075 ],
+					"Vol" : [ 0.0 ],
+					"live.numbox" : [ 0.04724409448819 ],
+					"live.numbox[1]" : [ 0.598425196850395 ],
+					"live.numbox[3]" : [ 55.118110236220538 ],
+					"textbutton[2]" : [ 1 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.102362204724409 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "Stutter",
+				"data" : 				{
+					"Offset" : [ 0.142848285696571 ],
+					"Vol" : [ 0.0 ],
+					"live.numbox" : [ 1.0 ],
+					"live.numbox[1]" : [ 0.015748031496065 ],
+					"live.numbox[3]" : [ 100.0 ],
+					"textbutton[2]" : [ 0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.401574803149606 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "Leader",
+				"data" : 				{
+					"Offset" : [ 0.027342054684109 ],
+					"Vol" : [ 0.0 ],
+					"live.numbox" : [ 0.0 ],
+					"live.numbox[1]" : [ 1.0 ],
+					"live.numbox[3]" : [ 3.149606299212752 ],
+					"textbutton[2]" : [ 1 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.0 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "WideStereo",
+				"data" : 				{
+					"Offset" : [ 1.0 ],
+					"Vol" : [ 0.0 ],
+					"live.numbox" : [ 0.188976377952756 ],
+					"live.numbox[1]" : [ 0.330708661417324 ],
+					"live.numbox[3]" : [ 42.519685039370195 ],
+					"textbutton[2]" : [ 0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.0 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

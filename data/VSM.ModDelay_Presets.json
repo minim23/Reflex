@@ -1,0 +1,229 @@
+{
+	"pattrstorage" : 	{
+		"name" : "VSM.ModDelay_Presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "Sadu",
+				"data" : 				{
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"DattoroDelay::Dampen" : [ 0.961245059790119 ],
+					"DattoroDelay::Feedback[1]" : [ 0.826771653543306 ],
+					"DattoroDelay::FllowDeterm[1]" : [ 1 ],
+					"DattoroDelay::Glide" : [ 1.0 ],
+					"DattoroDelay::ModDepth" : [ 4.449627679532254 ],
+					"DattoroDelay::ModMode" : [ 0 ],
+					"DattoroDelay::ModSpeed" : [ 0.429945719352931 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.102362204724409 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "OldPiano",
+				"data" : 				{
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"DattoroDelay::Dampen" : [ 0.487466551439055 ],
+					"DattoroDelay::Feedback[1]" : [ 0.897637795275591 ],
+					"DattoroDelay::FllowDeterm[1]" : [ 0 ],
+					"DattoroDelay::Glide" : [ 0.018211917470495 ],
+					"DattoroDelay::ModDepth" : [ 1.015620098759775 ],
+					"DattoroDelay::ModMode" : [ 2 ],
+					"DattoroDelay::ModSpeed" : [ 0.393631601009572 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.102362204724409 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "SweetMod",
+				"data" : 				{
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"DattoroDelay::Dampen" : [ 0.533422718745493 ],
+					"DattoroDelay::Feedback[1]" : [ 0.889763779527559 ],
+					"DattoroDelay::FllowDeterm[1]" : [ 0 ],
+					"DattoroDelay::Glide" : [ 0.533422718745498 ],
+					"DattoroDelay::ModDepth" : [ 2.098891629479343 ],
+					"DattoroDelay::ModMode" : [ 0 ],
+					"DattoroDelay::ModSpeed" : [ 0.380003703026338 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.157480314960629 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 25.280999999999718 ],
+					"VSM.AdaptationFilter::Release" : [ 20.736000000000029 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "Electrified",
+				"data" : 				{
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"DattoroDelay::Dampen" : [ 0.818051317819385 ],
+					"DattoroDelay::Feedback[1]" : [ 0.937007874015748 ],
+					"DattoroDelay::FllowDeterm[1]" : [ 0 ],
+					"DattoroDelay::Glide" : [ 0.533422718745499 ],
+					"DattoroDelay::ModDepth" : [ 0.295584351627552 ],
+					"DattoroDelay::ModMode" : [ 0 ],
+					"DattoroDelay::ModSpeed" : [ 128.770378764067942 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.157480314960629 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 25.280999999999718 ],
+					"VSM.AdaptationFilter::Release" : [ 20.736000000000029 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "HiAdd",
+				"data" : 				{
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"DattoroDelay::Dampen" : [ 0.692454802662048 ],
+					"DattoroDelay::Feedback[1]" : [ 0.960629921259843 ],
+					"DattoroDelay::FllowDeterm[1]" : [ 0 ],
+					"DattoroDelay::Glide" : [ 0.188881036292241 ],
+					"DattoroDelay::ModDepth" : [ 0.295584351627551 ],
+					"DattoroDelay::ModMode" : [ 0 ],
+					"DattoroDelay::ModSpeed" : [ 1000.0 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.157480314960629 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 25.280999999999718 ],
+					"VSM.AdaptationFilter::Release" : [ 20.736000000000029 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"name" : "Breath",
+				"data" : 				{
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"DattoroDelay::Dampen" : [ 0.259920220372031 ],
+					"DattoroDelay::Feedback[1]" : [ 0.929133858267717 ],
+					"DattoroDelay::FllowDeterm[1]" : [ 0 ],
+					"DattoroDelay::Glide" : [ 0.58278135905583 ],
+					"DattoroDelay::ModDepth" : [ 0.295584351627547 ],
+					"DattoroDelay::ModMode" : [ 1 ],
+					"DattoroDelay::ModSpeed" : [ 635.72800210745072 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.102362204724409 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"name" : "Clicks",
+				"data" : 				{
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"DattoroDelay::Dampen" : [ 0.753160656734103 ],
+					"DattoroDelay::Feedback[1]" : [ 0.826771653543307 ],
+					"DattoroDelay::FllowDeterm[1]" : [ 0 ],
+					"DattoroDelay::Glide" : [ 0.000011238236228 ],
+					"DattoroDelay::ModDepth" : [ 4.449627679532147 ],
+					"DattoroDelay::ModMode" : [ 2 ],
+					"DattoroDelay::ModSpeed" : [ 6.941777427774947 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.204724409448818 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"name" : "SlowDoubling",
+				"data" : 				{
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"DattoroDelay::Dampen" : [ 0.608794327202433 ],
+					"DattoroDelay::Feedback[1]" : [ 0.661417322834646 ],
+					"DattoroDelay::FllowDeterm[1]" : [ 0 ],
+					"DattoroDelay::Glide" : [ 1.0 ],
+					"DattoroDelay::ModDepth" : [ 50.871154665516421 ],
+					"DattoroDelay::ModMode" : [ 0 ],
+					"DattoroDelay::ModSpeed" : [ 0.011693872176907 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.204724409448818 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"9" : 			{
+				"id" : 9,
+				"name" : "TinyAdd",
+				"data" : 				{
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"DattoroDelay::Dampen" : [ 1.0 ],
+					"DattoroDelay::Feedback[1]" : [ 0.960629921259843 ],
+					"DattoroDelay::FllowDeterm[1]" : [ 0 ],
+					"DattoroDelay::Glide" : [ 0.011507953897974 ],
+					"DattoroDelay::ModDepth" : [ 0.434310386909078 ],
+					"DattoroDelay::ModMode" : [ 2 ],
+					"DattoroDelay::ModSpeed" : [ 3.506716677592798 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.204724409448818 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"10" : 			{
+				"id" : 10,
+				"name" : "SubtleDetune",
+				"data" : 				{
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"DattoroDelay::Dampen" : [ 0.63572800210745 ],
+					"DattoroDelay::Feedback[1]" : [ 0.881889763779528 ],
+					"DattoroDelay::FllowDeterm[1]" : [ 0 ],
+					"DattoroDelay::Glide" : [ 0.021639212583189 ],
+					"DattoroDelay::ModDepth" : [ 3.099426570922126 ],
+					"DattoroDelay::ModMode" : [ 0 ],
+					"DattoroDelay::ModSpeed" : [ 0.00487466551439 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.204724409448818 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"11" : 			{
+				"id" : 11,
+				"name" : "Ethereal",
+				"data" : 				{
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"DattoroDelay::Dampen" : [ 0.753160656734103 ],
+					"DattoroDelay::Feedback[1]" : [ 0.897637795275591 ],
+					"DattoroDelay::FllowDeterm[1]" : [ 0 ],
+					"DattoroDelay::Glide" : [ 1.0 ],
+					"DattoroDelay::ModDepth" : [ 134.300003439631382 ],
+					"DattoroDelay::ModMode" : [ 0 ],
+					"DattoroDelay::ModSpeed" : [ 0.007531606567341 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.204724409448818 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

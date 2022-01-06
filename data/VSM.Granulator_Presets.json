@@ -1,0 +1,142 @@
+{
+	"pattrstorage" : 	{
+		"name" : "VSM.Granulator_Presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "RepeatParticle",
+				"data" : 				{
+					"Length" : [ 0.133858267716536 ],
+					"Speed[1]" : [ 1.0 ],
+					"Speed[6]" : [ 0.281102362204725 ],
+					"Vol" : [ 0.06964378518424 ],
+					"live.numbox" : [ 1.0 ],
+					"live.numbox[2]" : [ 0.0 ],
+					"live.numbox[3]" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.0 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "ArpMelo",
+				"data" : 				{
+					"Length" : [ 0.354330708661418 ],
+					"Speed[1]" : [ 1.0 ],
+					"Speed[6]" : [ 0.490551181102363 ],
+					"Vol" : [ 0.06964378518424 ],
+					"live.numbox" : [ 8.0 ],
+					"live.numbox[2]" : [ 0.307086614173228 ],
+					"live.numbox[3]" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.0 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "Clicks",
+				"data" : 				{
+					"Length" : [ 0.118110236220473 ],
+					"Speed[1]" : [ 1.0 ],
+					"Speed[6]" : [ 0.512598425196851 ],
+					"Vol" : [ 0.06964378518424 ],
+					"live.numbox" : [ 6.0 ],
+					"live.numbox[2]" : [ 0.031496062992126 ],
+					"live.numbox[3]" : [ 0.811023622047244 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.0 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "SmoothDoubling",
+				"data" : 				{
+					"Length" : [ 1.0 ],
+					"Speed[1]" : [ 1.0 ],
+					"Speed[6]" : [ 0.440944881889764 ],
+					"Vol" : [ 0.06964378518424 ],
+					"live.numbox" : [ 1.0 ],
+					"live.numbox[2]" : [ 1.0 ],
+					"live.numbox[3]" : [ 0.401574803149607 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.448818897637795 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 18.495999999999764 ],
+					"VSM.AdaptationFilter::Release" : [ 53.361000000000068 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "FIveIter",
+				"data" : 				{
+					"Length" : [ 0.677165354330709 ],
+					"Speed[1]" : [ 0.480314960629922 ],
+					"Speed[6]" : [ 0.474015748031496 ],
+					"Vol" : [ 0.06964378518424 ],
+					"live.numbox" : [ 5.0 ],
+					"live.numbox[2]" : [ 0.09448818897638 ],
+					"live.numbox[3]" : [ 0.314960629921261 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.448818897637795 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 18.495999999999764 ],
+					"VSM.AdaptationFilter::Release" : [ 53.361000000000068 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"name" : "ClickRhythm",
+				"data" : 				{
+					"Length" : [ 0.0 ],
+					"Speed[1]" : [ 1.0 ],
+					"Speed[6]" : [ 0.534645669291339 ],
+					"Vol" : [ 0.06964378518424 ],
+					"live.numbox" : [ 8.0 ],
+					"live.numbox[2]" : [ 1.0 ],
+					"live.numbox[3]" : [ 0.952755905511811 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.377952755905512 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 18.495999999999764 ],
+					"VSM.AdaptationFilter::Release" : [ 53.361000000000068 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"name" : "SimpleArp",
+				"data" : 				{
+					"Length" : [ 0.149606299212598 ],
+					"Speed[1]" : [ 1.0 ],
+					"Speed[6]" : [ 0.496062992125985 ],
+					"Vol" : [ 0.06964378518424 ],
+					"live.numbox" : [ 8.0 ],
+					"live.numbox[2]" : [ 0.409448818897637 ],
+					"live.numbox[3]" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.0 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 0.0 ],
+					"VSM.AdaptationFilter::Release" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,135 @@
+{
+	"pattrstorage" : 	{
+		"name" : "VSM.Stutter_Presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "SimpleRepeat",
+				"data" : 				{
+					"Length[1]" : [ 0.370078740157481 ],
+					"Offset" : [ 0.024800049600099 ],
+					"Vol" : [ 0.0 ],
+					"live.numbox[2]" : [ 23.0 ],
+					"live.numbox[5]" : [ 0.0 ],
+					"textbutton" : [ 1 ],
+					"textbutton[1]" : [ 0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.102362204724409 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ],
+					"Pattrstorage_Manager::76881percent" : [  ],
+					"Pattrstorage_Manager::76881interp" : [  ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "Wavetable",
+				"data" : 				{
+					"Length[1]" : [ 0.110236220472442 ],
+					"Offset" : [ 1.0 ],
+					"Vol" : [ 0.0 ],
+					"live.numbox[2]" : [ 100.0 ],
+					"live.numbox[5]" : [ 100.0 ],
+					"textbutton" : [ 0 ],
+					"textbutton[1]" : [ 0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.188976377952755 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ],
+					"Pattrstorage_Manager::76881percent" : [  ],
+					"Pattrstorage_Manager::76881interp" : [  ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "Reverse",
+				"data" : 				{
+					"Length[1]" : [ 0.503937007874017 ],
+					"Offset" : [ 0.080352160704322 ],
+					"Vol" : [ 0.0 ],
+					"live.numbox[2]" : [ 0.0 ],
+					"live.numbox[5]" : [ 0.0 ],
+					"textbutton" : [ 0 ],
+					"textbutton[1]" : [ 0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.519685039370078 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 146.68899999999914 ],
+					"VSM.AdaptationFilter::Release" : [ 0.0 ],
+					"Pattrstorage_Manager::76881percent" : [  ],
+					"Pattrstorage_Manager::76881interp" : [  ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "ShortestPossible",
+				"data" : 				{
+					"Length[1]" : [ 0.01 ],
+					"Offset" : [ 0.131192262384526 ],
+					"Vol" : [ 0.0 ],
+					"live.numbox[2]" : [ 0.0 ],
+					"live.numbox[5]" : [ 0.0 ],
+					"textbutton" : [ 1 ],
+					"textbutton[1]" : [ 0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.519685039370078 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 0.0 ],
+					"VSM.AdaptationFilter::Release" : [ 0.0 ],
+					"Pattrstorage_Manager::76881percent" : [  ],
+					"Pattrstorage_Manager::76881interp" : [  ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "SlowlyMoving",
+				"data" : 				{
+					"Length[1]" : [ 0.309212598425197 ],
+					"Offset" : [ 0.131192262384526 ],
+					"Vol" : [ 0.0 ],
+					"live.numbox[2]" : [ 0.0 ],
+					"live.numbox[5]" : [ 0.0 ],
+					"textbutton" : [ 1 ],
+					"textbutton[1]" : [ 0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.519685039370078 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 0.0 ],
+					"VSM.AdaptationFilter::Release" : [ 0.0 ],
+					"Pattrstorage_Manager::76881percent" : [  ],
+					"Pattrstorage_Manager::76881interp" : [  ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"name" : "ToneRhythm",
+				"data" : 				{
+					"Length[1]" : [ 0.191102362204724 ],
+					"Offset" : [ 1.0 ],
+					"Vol" : [ 0.0 ],
+					"live.numbox[2]" : [ 0.0 ],
+					"live.numbox[5]" : [ 0.0 ],
+					"textbutton" : [ 1 ],
+					"textbutton[1]" : [ 0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.519685039370078 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 0.0 ],
+					"VSM.AdaptationFilter::Release" : [ 0.0 ],
+					"Pattrstorage_Manager::76881percent" : [  ],
+					"Pattrstorage_Manager::76881interp" : [  ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

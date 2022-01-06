@@ -1,0 +1,111 @@
+{
+	"pattrstorage" : 	{
+		"name" : "VSM.Timestretcher_Presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "SimpleCounter",
+				"data" : 				{
+					"2nd Voice" : [ 0.0 ],
+					"Randomize" : [ 0.0 ],
+					"StereoFake" : [ 1 ],
+					"Stretch" : [ 0.716535433070866 ],
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.299212598425196 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "TwoVoices",
+				"data" : 				{
+					"2nd Voice" : [ 0.590551181102363 ],
+					"Randomize" : [ 0.0 ],
+					"StereoFake" : [ 0 ],
+					"Stretch" : [ 0.62992125984252 ],
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.299212598425196 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 33.48900000000004 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "Big",
+				"data" : 				{
+					"2nd Voice" : [ 1.0 ],
+					"Randomize" : [ 0.173228346456693 ],
+					"StereoFake" : [ 1 ],
+					"Stretch" : [ 1.0 ],
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.149606299212598 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 18.768999999999767 ],
+					"VSM.AdaptationFilter::Release" : [ 65.025000000000077 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "Randomized",
+				"data" : 				{
+					"2nd Voice" : [ 0.0 ],
+					"Randomize" : [ 0.858267716535433 ],
+					"StereoFake" : [ 0 ],
+					"Stretch" : [ 0.330708661417323 ],
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.464566929133858 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 0.0 ],
+					"VSM.AdaptationFilter::Release" : [ 0.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "ShiftingVoices",
+				"data" : 				{
+					"2nd Voice" : [ 0.771653543307086 ],
+					"Randomize" : [ 0.244094488188978 ],
+					"StereoFake" : [ 1 ],
+					"Stretch" : [ 0.330708661417323 ],
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.464566929133858 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 0.0 ],
+					"VSM.AdaptationFilter::Release" : [ 0.0 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"name" : "GrainCloud",
+				"data" : 				{
+					"2nd Voice" : [ 1.0 ],
+					"Randomize" : [ 1.0 ],
+					"StereoFake" : [ 1 ],
+					"Stretch" : [ 1.0 ],
+					"Vol" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.307086614173228 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 0.0 ],
+					"VSM.AdaptationFilter::Release" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

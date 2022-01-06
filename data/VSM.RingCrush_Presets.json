@@ -1,0 +1,89 @@
+{
+	"pattrstorage" : 	{
+		"name" : "VSM.RingCrush_Presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "SweetBeatings",
+				"data" : 				{
+					"Beating" : [ 0.204724409448819 ],
+					"FllowDeterm[1]" : [ 1 ],
+					"RingMod" : [ 0.125984251968505 ],
+					"Vol" : [ -9.576488683551261 ],
+					"live.numbox" : [ 0.616705915547441 ],
+					"live.numbox[1]" : [ 1.0 ],
+					"live.numbox[2]" : [ 0.220472440944882 ],
+					"live.numbox[3]" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.070866141732283 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 14.399999999999785 ],
+					"VSM.AdaptationFilter::Release" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "SimpleRing",
+				"data" : 				{
+					"Beating" : [ 0.244094488188976 ],
+					"FllowDeterm[1]" : [ 0 ],
+					"RingMod" : [ 1.0 ],
+					"Vol" : [ -9.576488683551261 ],
+					"live.numbox" : [ 0.0 ],
+					"live.numbox[1]" : [ 0.070866141732285 ],
+					"live.numbox[2]" : [ 0.031496062992126 ],
+					"live.numbox[3]" : [ 0.070866141732283 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.37007874015748 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 0.0 ],
+					"VSM.AdaptationFilter::Release" : [ 92.416000000000096 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "Inharmonic",
+				"data" : 				{
+					"Beating" : [ 0.692913385826771 ],
+					"FllowDeterm[1]" : [ 1 ],
+					"RingMod" : [ 0.503937007874017 ],
+					"Vol" : [ -1.784571129127897 ],
+					"live.numbox" : [ 0.523950615200809 ],
+					"live.numbox[1]" : [ 1.0 ],
+					"live.numbox[2]" : [ 0.267716535433072 ],
+					"live.numbox[3]" : [ 0.0 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.37007874015748 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 0.0 ],
+					"VSM.AdaptationFilter::Release" : [ 92.416000000000096 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "NearlyPsycho",
+				"data" : 				{
+					"Beating" : [ 0.133858267716536 ],
+					"FllowDeterm[1]" : [ 0 ],
+					"RingMod" : [ 0.976377952755904 ],
+					"Vol" : [ -1.784571129127897 ],
+					"live.numbox" : [ 0.020914583911888 ],
+					"live.numbox[1]" : [ 1.0 ],
+					"live.numbox[2]" : [ 0.267716535433072 ],
+					"live.numbox[3]" : [ 0.031496062992126 ],
+					"toggle[42]" : [ 1 ],
+					"VSM.AdaptationFilter::Adapt" : [ 0.433070866141732 ],
+					"VSM.AdaptationFilter::Attack[1]" : [ 10.609000000000007 ],
+					"VSM.AdaptationFilter::Release" : [ 50.625000000000021 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
