@@ -4,6 +4,10 @@ Reflex is an Interactive Music System that was closely modelled after Stafford B
 
 The project was developed as part of my MSc in Sound Design at the University of Edinburgh. For further information about the project, the included DSP modules etc. have a look at the pdf file.
 
+## Dependencies
+
+You will need to download the FluCoMa Toolkit from the Max Package Manager for some of the Audio Descriptors and the Audio Classifier
+
 ## Audio Demo
 
 https://soundcloud.com/minim23/sets/reflex
