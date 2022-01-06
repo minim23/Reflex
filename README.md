@@ -7,7 +7,3 @@ The project was developed as part of my MSc in Sound Design at the University of
 ## Audio Demo
 
 https://soundcloud.com/minim23/sets/reflex
-
-## Video Demo
-
-Coming soon
